@@ -1,0 +1,23 @@
+{
+    "name": "ws-protocol",
+    "version": "0.0.1",
+    "description": "provides an EventEmitter iterface on top of ws WebSockets",
+    "dependencies": {
+        "jdataview": "latest",
+        "ws": "latest"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chad3814/ws-protocol"
+    },
+    "keywords": [
+        "websocket",
+        "ws"
+    ],
+    "author": "Chad Walker",
+    "bugs": {
+        "url": "https://github.com/chad3814/ws-protocol/issues"
+    },
+    "homepage": "https://github.com/chad3814/ws-protocol"
+}
